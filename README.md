@@ -1,7 +1,19 @@
-Create Useless programs and combine...
+# The Useless Hub
 
-Into...
+## Yes
 
-The Ultimate...
+The best way to waste your time ... if you really can't do anything else
 
-Useless Hub!!!
+## Antivirus
+
+May be issues with antiviruses
+
+## Misc 
+
+This may go back into development soon
+
+Uses tkinter
+
+## Credits
+
+Thomas kerby - sole developer
