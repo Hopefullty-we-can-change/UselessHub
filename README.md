@@ -1,7 +1,5 @@
 # The Useless Hub
 
-## Yes
-
 The best way to waste your time ... if you really can't do anything else
 
 ## Antivirus
