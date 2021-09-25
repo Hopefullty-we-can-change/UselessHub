@@ -130,7 +130,7 @@ def runresults():
     if inbox == ("yes"):
         num = (random.randint(1,3))
         if num == 1:
-            inboxres = ("Lots of emails from DonaldTrump@hotmail.com")
+            inboxres = (" Lots of emails from DonaldTrump@hotmail.com")
             text.insert(END, " ")
             text.insert(END, inboxres)
             text.insert(END, ".")
@@ -139,7 +139,7 @@ def runresults():
             text.insert(END, inboxres)
             text.insert(END, ".")
         else:
-            inboxres = ("Lots of emails from CountToTenTeachingVerification@stupidperson.com")
+            inboxres = (" Lots of emails from CountToTenTeachingVerification@stupidperson.com")
             text.insert(END, " ")
             text.insert(END, inboxres)
             text.insert(END, ".")
