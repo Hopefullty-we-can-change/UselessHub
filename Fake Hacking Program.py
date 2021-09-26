@@ -4,12 +4,6 @@ import random
 print("")
 
             
-    
-
-
-
-
-
 
 def hackthem():
     text.delete(0.0, END)
@@ -53,15 +47,6 @@ def hackthem():
         
 
     
-      
-
-
-
-
-
-
-
-
 
 
 def start():
@@ -108,16 +93,6 @@ def start():
     
     
     
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -203,48 +178,6 @@ def runresults():
         
         
         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
 
 
 start()
